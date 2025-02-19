@@ -1,7 +1,3 @@
-/*  Name - Aditya Kumar Garg
-    Section - DS1
-    University Roll No - 2023827
-*/
 import java.util.*;
 public class Dummy {
     public static void main(String[] args)
