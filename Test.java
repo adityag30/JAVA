@@ -1,7 +1,3 @@
-/*  Name - Aditya Kumar Garg
-    Section - DS1
-    University Roll No - 2023827
-*/
 public class Test {
     public static void main(String[] args)
     {
