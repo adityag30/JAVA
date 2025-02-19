@@ -7,3 +7,8 @@ public class Test {
         System.out.println("Enter your Roll Number\n"+args[3]);
     }
 }
+
+// Command line Arguement
+/*   Output Format  
+    javac Test.java
+    java Test Adi btech 04 07  */
