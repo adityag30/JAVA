@@ -1,3 +1,6 @@
+/*
+    Basic Class And Object Example using GETTER and SETTER
+*/
 import java.util.*;
 class Employee{
     StringBuffer name;
