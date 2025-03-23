@@ -1,7 +1,8 @@
 /*
         CONSTRUCTORS
-                -- this--> invoke other constructor also
-                -- super--> do not invoke any other constructor
+                -- this--> invoke another constructor also
+                -- super--> Do not invoke any other constructor
+        NOTE -> this and super MUST be the first statement of a Constructor
  */
 import java.util.*;
 class Constructor{
@@ -9,8 +10,7 @@ class Constructor{
         System.out.println("Hello, I am a Default Constructor...");
     }
     Constructor(int x){
-        this();
-        // super();
+        this();      // super();
         System.out.println("Hello, I am a Parameterized Constructor with value-- "+x);
     }
 }
